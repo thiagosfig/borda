@@ -1,0 +1,4 @@
+﻿  novo.cpp
+c:\users\thiag\source\repos\peao\peao\novo.cpp(30): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+c:\users\thiag\source\repos\peao\peao\novo.cpp(186): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+  peao.vcxproj -> C:\Users\thiag\source\repos\peao\x64\Debug\peao.exe
